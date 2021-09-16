@@ -1,0 +1,4 @@
+name: GameJam
+version: "Prototype"
+main: com.github.frcsty.gamejam.GameJamPlugin
+api-version: 1.17
